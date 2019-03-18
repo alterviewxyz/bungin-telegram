@@ -1,0 +1,16 @@
+{
+  "name": "bungin-telegram",
+  "version": "0.0.1",
+  "description": "a telegram bot, all about podcasts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "git@github.com:alterviewxyz/bungin-telegram.git",
+  "author": "Mehrad Rousta <mehrad77@gmail.com>",
+  "license": "GPL-3",
+  "private": false,
+  "dependencies": {
+    "telegraf": "^3.27.1"
+  }
+}
